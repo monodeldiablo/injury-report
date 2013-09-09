@@ -1,10 +1,11 @@
 # injury-report
 
-Scrape TransferMarkt for player injury data. And trade data. Whatever data.
+Scrape TransferMarkt for player injury data. And transfer data.
+Whatever data.
 
 ## Usage
 
-FIXME
+$ lein run --tag fc-arsenal --id 11
 
 ## License
 
